@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/DCI_final_nother_class/static/css/main.46664d91.css",
+    "main.js": "/DCI_final_nother_class/static/js/main.3c48aceb.js",
+    "static/js/787.22edae46.chunk.js": "/DCI_final_nother_class/static/js/787.22edae46.chunk.js",
+    "static/media/mainVisualAlternative.jpg": "/DCI_final_nother_class/static/media/mainVisualAlternative.c218405afc6875066d20.jpg",
+    "static/media/logo.jpg": "/DCI_final_nother_class/static/media/logo.e06f9f36a1de430b5292.jpg",
+    "static/media/premiumVisual.jpeg": "/DCI_final_nother_class/static/media/premiumVisual.798fac3b44997f70b576.jpeg",
+    "static/media/bioLogo.jpg": "/DCI_final_nother_class/static/media/bioLogo.c25b9d7ae0efc9a82895.jpg",
+    "static/media/petaLogo.jpg": "/DCI_final_nother_class/static/media/petaLogo.abc42f14c0cc859ad1b5.jpg",
+    "static/media/highProteinLogo.jpg": "/DCI_final_nother_class/static/media/highProteinLogo.6dd6e8b73bf298765d29.jpg",
+    "index.html": "/DCI_final_nother_class/index.html",
+    "main.46664d91.css.map": "/DCI_final_nother_class/static/css/main.46664d91.css.map",
+    "main.3c48aceb.js.map": "/DCI_final_nother_class/static/js/main.3c48aceb.js.map",
+    "787.22edae46.chunk.js.map": "/DCI_final_nother_class/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46664d91.css",
+    "static/js/main.3c48aceb.js"
+  ]
+}
